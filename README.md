@@ -6,5 +6,7 @@
 
 **适配器模式**：com.liuxing.adapter
 
+**代理模式**：com.liuxing.proxy
+
 
 如果觉得对您有帮助，记得点个star哦，谢谢
