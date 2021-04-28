@@ -8,5 +8,7 @@
 
 **代理模式**：com.liuxing.proxy
 
+**职责链模式**：com.liuxing.handler
+
 
 如果觉得对您有帮助，记得点个star哦，谢谢
